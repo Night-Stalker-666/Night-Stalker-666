@@ -66,17 +66,3 @@
 ---
 
 ### ✨ Designed with 💖 by Night-Stalker-666
-
-<style>
-@keyframes glow {
-  0% { text-shadow: 0 0 5px #f76c6c, 0 0 10px #f76c6c, 0 0 15px #f76c6c; }
-  50% { text-shadow: 0 0 10px #ff4f4f, 0 0 20px #ff4f4f, 0 0 30px #ff4f4f; }
-  100% { text-shadow: 0 0 5px #f76c6c, 0 0 10px #f76c6c, 0 0 15px #f76c6c; }
-}
-
-@media (max-width: 768px) {
-  .tech-stack img {
-    width: 80px;
-  }
-}
-</style>
