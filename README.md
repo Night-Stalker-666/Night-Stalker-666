@@ -56,6 +56,25 @@
 
 ---
 
+## 🎯 Featured Projects
+
+<div align="center">
+  <h3 style="font-family: 'Arial', sans-serif; font-size: 1.5rem; color: #fff; text-align: center; margin-bottom: 10px;">
+    Check out some of my featured projects:
+  </h3>
+  <a href="https://github.com/Night-Stalker-666/project-1" target="_blank" style="text-decoration: none; margin: 5px;">
+    <img src="https://img.shields.io/badge/Project%201-%2300D8FF?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/Night-Stalker-666/project-2" target="_blank" style="text-decoration: none; margin: 5px;">
+    <img src="https://img.shields.io/badge/Project%202-%23E34F26?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/Night-Stalker-666/project-3" target="_blank" style="text-decoration: none; margin: 5px;">
+    <img src="https://img.shields.io/badge/Project%203-%233776AB?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
+---
+
 ## 🔗 Let's Connect
 
 <div align="center" style="margin: 20px 0;">
