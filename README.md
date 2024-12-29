@@ -1,13 +1,13 @@
-# Welcome to Night-Stalker-666's GitHub Profile 🚀
+# Welcome to Night-Stalker-666's GitHub Profile 🌌
 
 <div align="center">
-  <h1 style="font-family: 'Poppins', sans-serif; font-size: 3.5rem; color: #fff; text-align: center; margin-bottom: 10px;">
-    <span style="color: #f76c6c; animation: glow 2s ease-in-out infinite;">✨ Night-Stalker-666 ✨</span>
+  <h1 style="font-family: 'Arial', sans-serif; font-size: 3.5rem; color: #fff; text-align: center; margin-bottom: 10px;">
+    ✨ Night-Stalker-666 ✨
   </h1>
-  <p style="font-size: 1.4rem; color: #ddd; font-family: 'Poppins', sans-serif;">
-    "Crafting elegant solutions through code." 💻
+  <p style="font-size: 1.4rem; color: #ddd; font-family: 'Arial', sans-serif;">
+    "Transforming ideas into reality through code." 💻
   </p>
-  <p style="font-size: 1.2rem; color: #aaa; font-family: 'Poppins', sans-serif;">
+  <p style="font-size: 1.2rem; color: #aaa; font-family: 'Arial', sans-serif;">
     Python Enthusiast | Automation Specialist | Tech Innovator 🚀
   </p>
 </div>
@@ -15,13 +15,13 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/Night-Stalker-666/Night-Stalker-666/raw/main/assets/code-animation.gif" alt="Code Animation" width="500px" style="border-radius: 15px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3); animation: float 3s ease-in-out infinite;"/>
+  <img src="https://github.com/Night-Stalker-666/Night-Stalker-666/raw/main/assets/code-animation.gif" alt="Code Animation" width="500px" style="border-radius: 15px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);"/>
 </div>
 
 ---
 
 ## 💼 About Me
-<p style="font-family: 'Poppins', sans-serif; font-size: 1.2rem; text-align: center; color: #ddd;">
+<p style="font-family: 'Arial', sans-serif; font-size: 1.2rem; text-align: center; color: #ddd;">
   I’m a passionate developer with a focus on Python, automation, and open-source contributions. I thrive on solving complex problems and building scalable, innovative solutions. Always eager to collaborate and explore the endless possibilities of technology. 💡
 </p>
 
@@ -38,6 +38,8 @@
   <img src="https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-%23336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-%23326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 </div>
 
 ---
@@ -45,9 +47,11 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Night-Stalker-666&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" style="animation: fadeIn 2s ease-in-out;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Night-Stalker-666&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Night-Stalker-666&theme=dark&hide_border=true" alt="Streak Stats" style="animation: fadeIn 2s ease-in-out;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Night-Stalker-666&theme=dark&hide_border=true" alt="Streak Stats" />
+  <br />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Night-Stalker-666&theme=github-dark&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
@@ -67,23 +71,11 @@
   <a href="https://medium.com/@your-medium-handle" target="_blank" style="text-decoration: none; margin: 5px;">
     <img src="https://img.shields.io/badge/Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
+  <a href="https://dev.to/your-devto-handle" target="_blank" style="text-decoration: none; margin: 5px;">
+    <img src="https://img.shields.io/badge/Dev.to-%230A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
+  </a>
 </div>
 
 ---
 
 ### ✨ Designed with 💖 by Night-Stalker-666
-
-<style>
-  @keyframes glow {
-    0%, 100% { text-shadow: 0 0 10px #f76c6c, 0 0 20px #f76c6c, 0 0 30px #f76c6c; }
-    50% { text-shadow: 0 0 20px #f76c6c, 0 0 30px #f76c6c, 0 0 40px #f76c6c; }
-  }
-  @keyframes float {
-    0%, 100% { transform: translateY(0); }
-    50% { transform: translateY(-10px); }
-  }
-  @keyframes fadeIn {
-    0% { opacity: 0; }
-    100% { opacity: 1; }
-  }
-</style>
